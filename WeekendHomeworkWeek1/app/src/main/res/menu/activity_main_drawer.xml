@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navCamera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/take_a_selfie" />
+        <item
+            android:id="@+id/navViewSelfie"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/see_all_selfies" />
+        <item
+            android:id="@+id/navShareSelfie"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/share_a_selfie" />
+
+    </group>
+
+
+
+</menu>

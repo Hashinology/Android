@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weekend Homework Week 1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_a_selfie">Take a Selfie</string>
+    <string name="see_all_selfies">See All Selfies</string>
+    <string name="share_a_selfie">Share a Selfie</string>
+    <string name="logout">Logout</string>
+</resources>
