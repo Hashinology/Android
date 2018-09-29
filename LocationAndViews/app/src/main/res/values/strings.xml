@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationAndViews</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello">Hello</string>
+    <string name="do_magic">Do Magic</string>
+    <string name="go_to_second">Go to second</string>
+    <string name="passing_second_activity">Passing the object to a second activity</string>
+    <string name="name">Name</string>
+    <string name="pass_person_to_second">Pass person to second</string>
+    <string name="gender">Gender</string>
+</resources>
